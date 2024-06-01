@@ -1,0 +1,6 @@
+random forest
+tree
+gini impurity is one of three common algorithm
+bagg diff sampling with replacemnet and vote weak learners hard or soft(average) high bias underfit
+boost change weights of instances of weak learners and can became high variance (overfit)
+stack parallel weak learner diffrent model and vote finally by result of weaks but with new learnenr call blending(last layer)
